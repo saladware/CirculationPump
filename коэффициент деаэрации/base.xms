@@ -1,0 +1,1956 @@
+<?xml version="1.0"?>
+<scheme name="base" raster="" width="1920" height="1080" helpfile="" helpx="0" helpy="0" helpw="0" helph="0" helpx2="0" helpy2="0" helpw2="0" helph2="0" helpx3="0" helpy3="0" helpw3="0" helph3="0" grid_x="10" grid_y="10" grid_mx="5" grid_my="5" grid_offset_x="0" grid_offset_y="0" grid_angle="0" grid_enabled="false" grid_menabled="false" grid_buttons="false" grid_mode="0" grid_dx="10" grid_dy="10" vis_scale_min="0" vis_scale_max="0" sc_scale_min="0" sc_scale_max="0" load_pair_file="false" load_pair_3d_file="false" checksum="97c5fe5ef7ded0c1eb4fb53ab4c016f8">
+	<grid type="rect">
+		<instance>
+			<color1 value="7895160" />
+			<comment value="bg" />
+			<width value="1920" />
+			<height value="1080" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="1138" />
+		<pos_y value="5" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="1545932" />
+			<comment value="bg" />
+			<width value="70" />
+			<height value="86" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="770" />
+		<pos_y value="-1" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="1545932" />
+			<comment value="bg" />
+			<width value="375" />
+			<height value="873" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="group">
+		<pos_x value="903" />
+		<pos_y value="674" />
+		<instance>
+			<comment value="вал" />
+			<grid type="rect">
+				<pos_x value="34" />
+				<pos_y value="406" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="46" />
+					<height value="-945" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-12" />
+				<pos_y value="21" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="138" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-12" />
+				<pos_y value="226" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="138" />
+					<height value="25" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-12" />
+				<pos_y value="-29" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="138" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-12" />
+				<pos_y value="-79" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="138" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-12" />
+				<pos_y value="-129" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="138" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="26" />
+				<pos_y value="-413" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<comment value="вал" />
+					<confirmbutton value="1" />
+					<width value="62" />
+					<height value="60" />
+				</instance>
+				<link />
+			</grid>
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="1590" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="330" />
+			<height value="1080" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="1590" />
+		<pos_y value="320" />
+		<instance>
+			<color1 value="15790320" />
+			<width value="330" />
+			<height value="700" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_y value="-1" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="330" />
+			<height value="1081" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="1756" />
+		<pos_y value="1053" />
+		<padding_x value="83" />
+		<padding_y value="37" />
+		<instance>
+			<color1 value="45312" />
+			<confirmbutton value="1" />
+			<fontsize value="31" />
+			<dateformat value="1" />
+			<align value="0" />
+			<text value="0" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="760" />
+		<pos_y value="987" />
+		<comment value="стенка верх" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="400" />
+			<height value="95" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="group">
+		<pos_x value="779" />
+		<pos_y value="520" />
+		<pos_z value="-1" />
+		<instance>
+			<comment value="стенка лев" />
+			<grid type="rect">
+				<pos_x value="-19" />
+				<pos_y value="467" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="90" />
+					<height value="-252" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-19" />
+				<pos_y value="219" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="60" />
+					<height value="-419" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="7" />
+				<pos_y value="-199" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="138" />
+					<height value="-60" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="15" />
+				<pos_y value="-247" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="13" />
+					<height value="-73" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="7" />
+				<pos_y value="-310" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="146" />
+					<height value="-60" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<enabled_operation value="1" />
+				<pos_x value="-67" />
+				<pos_y value="-200" />
+				<pos_z value="1" />
+				<comment value="стенка низ лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="66" />
+					<height value="-323" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<enabled_operation value="1" />
+				<pos_x value="-7" />
+				<pos_y value="-507" />
+				<pos_z value="1" />
+				<comment value="стенка низ лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="162" />
+					<height value="-33" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="42.4272" />
+				<pos_y value="363.421" />
+				<pos_z value="-3.00415" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="14474460" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="42.4272" />
+				<pos_y value="413.421" />
+				<pos_z value="-3.00415" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="14474460" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+		</instance>
+		<link />
+	</grid>
+	<grid type="group">
+		<pos_x value="1048" />
+		<pos_y value="519" />
+		<pos_z value="-1" />
+		<instance>
+			<comment value="стенка прав" />
+			<grid type="rect">
+				<pos_x value="22" />
+				<pos_y value="468" />
+				<pos_z value="1" />
+				<comment value="стенка верх прав" />
+				<instance>
+					<color1 value="14474460" />
+					<confirmbutton value="1" />
+					<width value="90" />
+					<height value="-252" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="52" />
+				<pos_y value="217" />
+				<pos_z value="1" />
+				<comment value="стенка верх прав" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="60" />
+					<height value="-419" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<enabled_operation value="1" />
+				<pos_x value="94" />
+				<pos_y value="-202" />
+				<pos_z value="1" />
+				<comment value="стенка низ прав" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="66" />
+					<height value="-231" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<enabled_operation value="1" />
+				<pos_x value="-62" />
+				<pos_y value="-506" />
+				<pos_z value="1" />
+				<comment value="стенка низ прав" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="222" />
+					<height value="-33" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-51.626" />
+				<pos_y value="-197.503" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="138" />
+					<height value="-60" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="65" />
+				<pos_y value="-248" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="13" />
+					<height value="-73" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-60" />
+				<pos_y value="-309" />
+				<pos_z value="1" />
+				<comment value="стенка верх лев" />
+				<instance>
+					<color1 value="14474460" />
+					<width value="146" />
+					<height value="-60" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-31.5128" />
+				<pos_y value="364.945" />
+				<pos_z value="-3.00415" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="14474460" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-31.5128" />
+				<pos_y value="414.945" />
+				<pos_z value="-3.00415" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="14474460" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+		</instance>
+		<link />
+	</grid>
+	<grid type="group">
+		<pos_x value="825" />
+		<pos_y value="643" />
+		<instance>
+			<comment value="водстен лев" />
+			<grid type="rect">
+				<pos_x value="-5" />
+				<pos_y value="32" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-5" />
+				<pos_y value="-18" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-5" />
+				<pos_y value="-68" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-5" />
+				<pos_y value="82" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-5" />
+				<pos_y value="92" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="30" />
+					<height value="-258" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="25" />
+				<pos_y value="-122" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="55" />
+					<height value="-44" />
+				</instance>
+				<link />
+			</grid>
+		</instance>
+		<link />
+	</grid>
+	<grid type="group">
+		<pos_x value="1024" />
+		<pos_y value="643" />
+		<instance>
+			<comment value="водстен прав" />
+			<grid type="rect">
+				<pos_x value="-8.93744" />
+				<pos_y value="32.5244" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-8.93744" />
+				<pos_y value="-17.4756" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-8.93744" />
+				<pos_y value="-67.4756" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-8.93744" />
+				<pos_y value="82.5244" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="85" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<enabled_operation value="1" />
+				<pos_x value="46" />
+				<pos_y value="93" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="30" />
+					<height value="-258" />
+				</instance>
+				<link />
+			</grid>
+			<grid type="rect">
+				<pos_x value="-8" />
+				<pos_y value="-121" />
+				<padding_x value="0" />
+				<padding_y value="0" />
+				<padding_z value="0" />
+				<instance>
+					<color1 value="13158600" />
+					<comment value="вода стена" />
+					<confirmbutton value="1" />
+					<width value="55" />
+					<height value="-44" />
+				</instance>
+				<link />
+			</grid>
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="886" />
+		<pos_y value="486" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<height value="26" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1024" />
+		<pos_y value="486" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<height value="26" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="893" />
+		<pos_y value="495" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<width value="-63" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1090" />
+		<pos_y value="495" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<width value="-63" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="830" />
+		<pos_y value="498" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<height value="151" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1080" />
+		<pos_y value="501" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<height value="151" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="708" />
+		<pos_y value="628" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="-57" />
+			<height value="40" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="760" />
+		<pos_y value="637" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="-160" />
+			<height value="20" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="840" />
+		<pos_y value="642" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<width value="-240" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="703" />
+		<pos_y value="633" />
+		<instance>
+			<color1 value="4342338">
+				<clr min="0" max="0.5" blinking="0" gradient="0" value="4342338" value2="16777215" />
+				<clr min="0.6" max="100" blinking="0" gradient="0" value="255" value2="16777215" />
+			</color1>
+			<width value="-24" />
+			<height value="30" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="680" />
+		<pos_y value="633" />
+		<instance>
+			<color1 value="255" />
+			<width value="-24" />
+			<height value="30" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="679" />
+		<pos_y value="642" />
+		<instance>
+			<color1 value="255" />
+			<width value="-79" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="675" />
+		<pos_y value="663" />
+		<instance>
+			<color1 value="14474460" />
+			<comment value="клапан" />
+			<height value="-30" />
+		</instance>
+		<link>
+			<height db="1" num="7" precision="0.01" min="-30" max_f="100" clamp="true" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1021.96" />
+		<pos_y value="561.883" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1027.7" />
+		<pos_y value="574.671" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1021.56" />
+		<pos_y value="567.595" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1016.96" />
+		<pos_y value="554.884" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="chart">
+		<pos_x value="13" />
+		<pos_y value="744" />
+		<instance>
+			<period value="100" />
+			<width value="300" />
+			<height value="300" />
+			<table_height value="0" />
+			<print_minmax value="1" />
+			<minmaxType value="2" />
+			<fixMax value="1" />
+			<db value="1 1 1 " />
+			<num value="8 10 11 " />
+			<colors value="12632256 12632256 12632256 " />
+			<widths value="2 1 1 " />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="15" />
+		<pos_y value="1053" />
+		<padding_x value="60" />
+		<padding_z value="55" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="перепад давления" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="1812.17" />
+		<pos_y value="101.653" />
+		<instance>
+			<width value="80" />
+			<height value="60" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="1851.17" />
+		<pos_y value="132.653" />
+		<padding_x value="15" />
+		<instance>
+			<color1 value="0" />
+			<comment value="% кл" />
+			<fontsize value="31" />
+			<align value="0" />
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.1" max="100" max_f="100" clamp="true" active="true" />
+			<text db="1" num="7" precision="0.1" max="100" max_f="100" clamp="true" active="true" />
+		</link>
+	</grid>
+	<grid type="button">
+		<pos_x value="1812.17" />
+		<pos_y value="160.653" />
+		<instance>
+			<width value="80" />
+			<height value="40" />
+			<shape value="2" />
+			<valuetoinc value="1" />
+			<valuetoinc2 value="10" />
+			<text value="+1" />
+			<fontsize value="22" />
+		</instance>
+		<link>
+			<valuetoinc db="1" num="7" precision="0.01" active="true" />
+			<valuetoinc2 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="button">
+		<pos_x value="1812.17" />
+		<pos_y value="101.653" />
+		<instance>
+			<width value="80" />
+			<height value="-40" />
+			<shape value="2" />
+			<valuetoinc value="-1" />
+			<valuetoinc2 value="-10" />
+			<text value="-1" />
+			<fontsize value="22" />
+			<confirmbutton1 value="1" />
+		</instance>
+		<link>
+			<valuetoinc db="1" num="7" precision="0.01" active="true" />
+			<valuetoinc2 db="1" num="7" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1840" />
+		<pos_y value="770" />
+		<instance>
+			<color1 value="12500670" />
+			<radius value="30" />
+			<radius2 value="30" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="1680" />
+		<pos_y value="770" />
+		<instance>
+			<color1 value="12500670" />
+			<radius value="30" />
+			<radius2 value="30" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="1684" />
+		<pos_y value="694" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<align value="0" />
+			<text value="Аварийный&#10;режим" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="1680" />
+		<pos_y value="770" />
+		<instance>
+			<color1 value="12500670">
+				<clr min="0.5" max="0.8" blinking="0" gradient="1" value="10132122" value2="7566195" />
+				<clr min="-100" max="0.5" blinking="0" gradient="1" value="14155779" value2="9240578" />
+				<clr min="0.8" max="100" blinking="0" gradient="1" value="13631491" value2="10027010" />
+			</color1>
+			<radius value="25" />
+			<radius2 value="25" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1840" />
+		<pos_y value="770" />
+		<instance>
+			<color1 value="12500670">
+				<clr min="0" max="0.5" blinking="0" gradient="1" value="10132122" value2="7566195" />
+				<clr min="0.6" max="1" blinking="0" gradient="1" value="56832" value2="34312" />
+			</color1>
+			<radius value="25" />
+			<radius2 value="25" />
+		</instance>
+		<link>
+			<color1 db="0" num="2" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1680" />
+		<pos_y value="950" />
+		<instance>
+			<color1 value="12500670" />
+			<radius value="30" />
+			<radius2 value="30" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="1680" />
+		<pos_y value="950" />
+		<instance>
+			<color1 value="12500670">
+				<clr min="0" max="0.5" blinking="0" gradient="1" value="10132122" value2="7566195" />
+				<clr min="0.6" max="1" blinking="0" gradient="1" value="1234944" value2="886784" />
+			</color1>
+			<radius value="25" />
+			<radius2 value="25" />
+		</instance>
+		<link>
+			<color1 db="1" num="18" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="1831" />
+		<pos_y value="684" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<align value="0" />
+			<text value="авт. изм.&#10;давления воды &#10;первого контура" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="1683" />
+		<pos_y value="882" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<align value="0" />
+			<text value="автоматический&#10;  режим &#10;управления" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="1840" />
+		<pos_y value="950" />
+		<instance>
+			<color1 value="12500670" />
+			<radius value="30" />
+			<radius2 value="30" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="1840" />
+		<pos_y value="950" />
+		<instance>
+			<color1 value="12500670">
+				<clr min="0" max="0.1" blinking="0" gradient="1" value="10132122" value2="7566195" />
+				<clr min="0.5" max="1" blinking="0" gradient="1" value="65288" value2="624640" />
+			</color1>
+			<radius value="25" />
+			<radius2 value="25" />
+		</instance>
+		<link>
+			<color1 db="0" num="1" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="1842" />
+		<pos_y value="895" />
+		<instance>
+			<color1 value="0" />
+			<confirmbutton value="1" />
+			<fontsize value="22" />
+			<align value="0" />
+			<text value=" работа &#10;системы" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="button">
+		<pos_x value="1789" />
+		<pos_y value="494" />
+		<instance>
+			<color1 value="13158600" />
+			<width value="100" />
+			<height value="100" />
+			<valuetoset2 value="1" />
+			<resetvalue2 value="1" />
+			<keys2 value="0" />
+			<text value="вкл./выкл.&#10;системы" />
+		</instance>
+		<link>
+			<valuetoset db="0" num="1" precision="0.01" active="true" />
+			<valuetoset2 db="0" num="1" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="button">
+		<pos_x value="1635" />
+		<pos_y value="494" />
+		<instance>
+			<color1 value="13158600" />
+			<enabled_operation value="1" />
+			<width value="100" />
+			<height value="100" />
+			<valuetoset2 value="1" />
+			<keys2 value="0" />
+			<text value="перекл.&#10;автоматического &#10;регулирования" />
+		</instance>
+		<link>
+			<valuetoset db="1" num="18" precision="0.01" active="true" />
+			<valuetoset2 db="1" num="18" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="1850" />
+		<pos_y value="253" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<align value="0" />
+			<text value="процент&#10;открытия &#10;клапана" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="850" />
+		<pos_y value="861.006" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="72" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="922" />
+		<pos_y value="861" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="15" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="983" />
+		<pos_y value="861" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="15" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="998" />
+		<pos_y value="925" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="31" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="891" />
+		<pos_y value="925" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="31" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="921.492" />
+		<pos_y value="936.735" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="15" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="983" />
+		<pos_y value="936.735" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="15" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="998" />
+		<pos_y value="861.006" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="72" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="849.962" />
+		<pos_y value="936.735" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="72" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="997.963" />
+		<pos_y value="936.735" />
+		<instance>
+			<color1 value="14474460" />
+			<width value="72" />
+			<height value="26" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="998" />
+		<pos_y value="887" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="31" />
+			<height value="13" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="890.483" />
+		<pos_y value="886.642" />
+		<instance>
+			<color1 value="6579300" />
+			<width value="31" />
+			<height value="13" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="937" />
+		<pos_y value="50" />
+		<instance>
+			<width value="46" />
+			<height value="89" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="925" />
+		<pos_y value="65" />
+		<instance>
+			<width value="70" />
+			<height value="42" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="910" />
+		<pos_y value="74" />
+		<instance>
+			<confirmbutton value="1" />
+			<width value="100" />
+			<height value="30" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="880" />
+		<pos_y value="90" />
+		<instance>
+			<confirmbutton value="1" />
+			<width value="160" />
+			<height value="20" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="rect">
+		<pos_x value="850" />
+		<pos_y value="100" />
+		<instance>
+			<confirmbutton value="1" />
+			<width value="220" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="11.9948" />
+		<pos_y value="712.039" />
+		<padding_x value="60" />
+		<padding_z value="55" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="давление запорной воды" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="7.99166" />
+		<pos_y value="373.072" />
+		<padding_x value="60" />
+		<padding_z value="55" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="давление воды 1 контура" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="button">
+		<pos_x value="1792" />
+		<pos_y value="351" />
+		<instance>
+			<color1 value="13158600" />
+			<width value="100" />
+			<height value="100" />
+			<valuetoset2 value="1" />
+			<resetvalue2 value="1" />
+			<keys2 value="0" />
+			<text value="вкл./выкл.&#10;авт. изм. давления" />
+		</instance>
+		<link>
+			<valuetoset db="0" num="2" precision="0.01" active="true" />
+			<valuetoset2 db="0" num="2" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="chart">
+		<pos_x value="13" />
+		<pos_y value="403.026" />
+		<instance>
+			<period value="100" />
+			<width value="300" />
+			<height value="300" />
+			<table_height value="0" />
+			<minmaxType value="2" />
+			<fixMax value="20" />
+			<db value="1 " />
+			<num value="3 " />
+			<colors value="12632256 " />
+			<widths value="0 " />
+		</instance>
+		<link />
+	</grid>
+	<grid type="chart">
+		<pos_x value="11" />
+		<pos_y value="70.0222" />
+		<instance>
+			<period value="100" />
+			<width value="300" />
+			<height value="300" />
+			<table_height value="0" />
+			<minmaxType value="2" />
+			<fixMax value="20" />
+			<db value="1 " />
+			<num value="4 " />
+			<colors value="12632256 " />
+			<widths value="0 " />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="897.85" />
+		<pos_y value="562.171" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="903.59" />
+		<pos_y value="574.959" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="897.45" />
+		<pos_y value="567.883" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="892.85" />
+		<pos_y value="555.172" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1021.97" />
+		<pos_y value="612.12" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1027.71" />
+		<pos_y value="624.908" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1021.57" />
+		<pos_y value="617.832" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1016.97" />
+		<pos_y value="605.121" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="897.86" />
+		<pos_y value="612.408" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="903.6" />
+		<pos_y value="625.196" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="897.46" />
+		<pos_y value="618.12" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="892.86" />
+		<pos_y value="605.409" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1022.97" />
+		<pos_y value="662.213" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1028.71" />
+		<pos_y value="675.001" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1022.57" />
+		<pos_y value="667.925" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1017.97" />
+		<pos_y value="655.214" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="898.861" />
+		<pos_y value="662.501" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="904.601" />
+		<pos_y value="675.289" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="898.461" />
+		<pos_y value="668.213" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="893.861" />
+		<pos_y value="655.502" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1021.97" />
+		<pos_y value="712.305" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1027.71" />
+		<pos_y value="725.093" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="1021.57" />
+		<pos_y value="718.017" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="1016.97" />
+		<pos_y value="705.306" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="897.86" />
+		<pos_y value="712.593" />
+		<padding_y value="9" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9437186" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="-2" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="903.6" />
+		<pos_y value="725.381" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="14286851" value2="8650754" />
+			</color1>
+			<offset_x value="1" />
+			<height value="6" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="897.46" />
+		<pos_y value="718.305" />
+		<angle value="-180.232" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13828099" value2="9175042" />
+			</color1>
+			<radius value="5" />
+			<radius2 value="5" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="rect">
+		<pos_x value="892.86" />
+		<pos_y value="705.594" />
+		<instance>
+			<color1 value="16777215">
+				<clr min="0.5" max="0.8" blinking="0" gradient="0" value="6579300" value2="16777215" />
+				<clr min="0.8" max="100" blinking="1" gradient="0" value="13107203" value2="8519682" />
+				<clr min="-100" max="0.5" blinking="1" gradient="0" value="13565955" value2="9240578" />
+			</color1>
+			<height value="8" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="678.707" />
+		<pos_y value="613.135" />
+		<instance>
+			<color1 value="12500670" />
+			<radius value="13" />
+			<radius2 value="13" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="678.707" />
+		<pos_y value="613.135" />
+		<instance>
+			<color1 value="12500670">
+				<clr min="0" max="1e-07" blinking="0" gradient="1" value="15985408" value2="13618972" />
+				<clr min="1e-07" max="1000" blinking="0" gradient="1" value="14211288" value2="8947848" />
+			</color1>
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" max_f="100" active="true" />
+		</link>
+	</grid>
+	<grid type="circle">
+		<pos_x value="679.708" />
+		<pos_y value="684.267" />
+		<instance>
+			<color1 value="12500670" />
+			<radius value="13" />
+			<radius2 value="13" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="circle">
+		<pos_x value="679.708" />
+		<pos_y value="684.267" />
+		<instance>
+			<color1 value="12500670">
+				<clr min="99.999" max="100" blinking="0" gradient="1" value="15985408" value2="13618972" />
+				<clr min="0" max="99.999" blinking="0" gradient="1" value="14211288" value2="8947848" />
+			</color1>
+		</instance>
+		<link>
+			<color1 db="1" num="7" precision="0.01" max_f="100" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="224" />
+		<pos_y value="1052" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="0" />
+		</instance>
+		<link>
+			<color1 db="1" num="8" precision="0.01" max_f="18" active="true" />
+			<text db="1" num="8" precision="0.01" max_f="18" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="268.995" />
+		<pos_y value="710.039" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="0" />
+		</instance>
+		<link>
+			<color1 db="1" num="3" precision="0.01" max_f="18" active="true" />
+			<text db="1" num="3" precision="0.01" max_f="18" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="271" />
+		<pos_y value="371" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="0" />
+		</instance>
+		<link>
+			<color1 db="1" num="4" precision="0.01" max_f="16" active="true" />
+			<text db="1" num="4" precision="0.01" max_f="16" active="true" />
+		</link>
+	</grid>
+	<grid type="label">
+		<pos_x value="6.64073" />
+		<pos_y value="13.5472" />
+		<padding_x value="60" />
+		<padding_z value="55" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="скорость изменения давления &#10;воды 1 контура" />
+		</instance>
+		<link />
+	</grid>
+	<grid type="label">
+		<pos_x value="199" />
+		<pos_y value="12" />
+		<instance>
+			<color1 value="0" />
+			<fontsize value="22" />
+			<text value="0" />
+		</instance>
+		<link>
+			<color1 db="1" num="19" precision="1e-07" min_f="-3" max_f="3" active="true" />
+			<text db="1" num="19" precision="1e-07" min_f="-3" max_f="3" active="true" />
+		</link>
+	</grid>
+</scheme>
